@@ -35,4 +35,4 @@ Welcome to my **DevOps_Lab Repository**. This repository serves as a portfolio o
 ## 🙋‍♂️ About Me
 
 I’m **Franked699**, a DevOps enthusiast building real-world projects and automation workflows.  
-Connect with me on [GitHub](https://github.com/Franked699)
+Connect with me on [GitHub](https://github.com/Franked699/DevOps_Lab.git)
